@@ -1,0 +1,12 @@
+# Editor files
+.*.sw*
+
+# Directories created by LapisLazuli
+logs
+screenshots
+
+# Directories for LapisLazuli Helper
+features/Classes/LLHelper
+
+# Files
+config/Init.xlsx
