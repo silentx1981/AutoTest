@@ -1,5 +1,6 @@
 # Editor files
 .*.sw*
+.idea
 
 # Directories created by LapisLazuli
 logs
