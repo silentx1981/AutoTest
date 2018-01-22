@@ -7,5 +7,4 @@ source 'http://rubygems.org'
 # LapisLazul itself
 gem 'lapis_lazuli', "2.0.1"
 gem 'rubyXL'
-gem 'json'
 gem 'watir-ng'

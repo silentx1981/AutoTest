@@ -29,7 +29,7 @@ LapisLazuli.Start do
 	WatirNg.patch!
 
     # Start the browser with these settings
-    browser :chrome, headless: false
+    browser :chrome, headless: true
 
     # Set Global-Vars
     $browser = browser
